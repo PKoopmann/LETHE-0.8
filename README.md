@@ -17,7 +17,7 @@ More information and technical details of the underlying methods can be found in
 - Koopmann, P., Schmidt, R.A.: Forgetting Concept and Role Symbols in ALCH-Ontologies. In: Proc. LPAR'13. Springer (2013).
 
 
-If you have any queries, suggestions or noticed any problems or bugs, please send me a message: patrick.koopmann@tu-dresden.de
+If you have any queries, suggestions or noticed any problems or bugs, please send me a message: p.k.koopmann@vu.nl
 
 ## Directly Using LETHE 0.6 as Standalone tool
 
