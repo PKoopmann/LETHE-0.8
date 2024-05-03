@@ -139,3 +139,34 @@ Logical Differences are computed using the class LogicalDifferenceComputer, whic
     // Compute Logical Difference for specified signature
     Set<OWLLogicalAxiom> diff = ldc.logicalDifference(ontology1, ontology2, signature, approximationLevel)
 
+## Usage of the Library: KB Abduction
+
+For this, you need to add the LETHE-abduction dependency (see above). 
+
+      import uk.ac.man.cs.lethe.abduction.OWLAbducer
+
+
+      import org.semanticweb.owlapi.model.OWLAxiom
+      import org.semanticweb.owlapi.model.OWLEntity
+      import org.semanticweb.owlapi.model.OWLOntology
+
+
+      ...
+
+      OWLOntology ontology;
+      Set<OWLEntity> abducibles;
+      Set<OWLAxiom> observation;
+
+      ...
+
+
+      OWLAbducer abducer = new OWLAbducer();
+      abducer.setBackgroundOntology(ontology);
+      abducer.setAbducibles(abducibles);
+      
+      DLStatement hypotheses = abducer.abduce(observation); // compute hypotheses as DLStatement object
+
+      abducer.formatAbductionResult(observation); // output the hypotheses in DL syntax to the standard output
+      
+      
+      
