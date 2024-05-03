@@ -1,0 +1,3 @@
+TOP <= (Ar.(A n B n C) u Er.(A n B n ¬C))
+TOP <= (As.(A n ¬B n C) u Es.(¬A n ¬B n ¬C)) 
+r <r (s)^-1

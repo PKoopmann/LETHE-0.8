@@ -1,0 +1,591 @@
+Exception: Outcomes.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): pseudogene_ontology_v0.1.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Medication.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): genomecomponents_v0.2.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): generic.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Detection.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): TM_OtherFactors_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): agentrole.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): nif_v2.9.1_-_January_23,_2012.owl
+Exception: PVOnto-v0.1_v0.1.owl
+Exception: NeuMORE-v0.1_v0.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Furniture.owl
+Exception: ContributingFactors-Hazards.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): OrganizationalOutcomes.owl
+Passed test 1
+General TBox: MF_valpha_2012-11-03.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): PatientOutcomes.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Clothing.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): TM_Constitution_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): AmelioratingActions.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Place.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): taxonomic_rank_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): PTRANS.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): GeographicalRegion_v1.1_v1.1.owl
+Exception: IncidentCharacteristic.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): tma_minimal032510_v1.0.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): CANONT.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): PatientCharacteristics.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): caro_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): MitigatingFactors.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): HospitalEquipment.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): OGMD.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): BuildingStructure.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): eligibility-feature-hierarchy_vv._1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): DetectionMechanisms.owl
+Passed test 1
+General TBox: Activity.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): oborel.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 0): TM_Meridians_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): sweetAll_v2.3.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): IxnO_v1.obo
+Exception: Person.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): XEO_v1_6_v1.6_v1.6.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): sbol-visual_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 16): WB-LS.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 3): fungal_anatomy_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 5): bco_vunknown.owl
+Passed test 1
+General TBox: ntdo_vRev._368.owl
+Passed test 1
+General TBox: ExO_v1.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 3): african_medicine_v1.101.obo
+Passed test 1
+General TBox: time-entry.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): HOM.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 7): mao_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): PMR.rdf-xml_v1.5.owl
+Exception: study_protocol.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): ontology-metadata.owl
+Epart_of.Cell <= Cell_component
+General TBox: gfo-bio_v1.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): InferredAnatomyv3.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): rnprio.owl
+Passed test 1
+General TBox: cabro_v0.5.owl
+Passed test 1
+General TBox: spatial_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Anatomy.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 11): LHN.obo
+Passed test 1
+General TBox: bfo-1.1_v1.1.owl
+Exception: ActionsToReduceRisk.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): MEDO.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): wheat_trait_v08.11.2010.obo
+Passed test 1
+General TBox: Diagnosticontology2.0_v2.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 5): vso_v2012-04-25.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): WSIO_vbeta1.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): ooevv_odp_0.0.4_v0.0.4.owl
+Passed test 1
+General TBox: dictyostelium_anatomy_vunknown.obo
+Passed test 1
+General TBox: MaHCO_v1.0.1.owl
+Exception: oboe-sbc_v0.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): ogms_v2011-09-20.owl
+(Property n Eproperty_of.Presential) <= Presential
+General TBox: gfo-basic_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): BioPortalMetadata_v0.9.3.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): aeo_vunknown.obo
+Exception: ClinicalTrialOntology_v0.9.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): sep_v1.070708.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 101): fb-dv.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): LDA.owl
+Exception: GEOSPECIES.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): MIXSCV.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 3): omrse_v2012-06-24.owl
+Exception: snpontology_full_v1.6_full.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): cereals_development_v1.6.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): LSM.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): yeast_phenotype_vunknown.obo
+Passed test 1
+General TBox: CancerChemopreventionOntology_v0.3.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 4): spto.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): meo_v03_vVersion_0.3.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): EpilepsyOntology_vV1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): vario_v2013-06-14.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): RepO_v1.1_v1.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): shr_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): study_design.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): MFOEM_vbeta_2013-03-25.owl
+Passed test 1
+General TBox: bimo.obo
+Passed test 1
+General TBox: amino acid - inferred_v1.2_(inferred).owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): ascomycete_phenotype_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 9): zea_mays_anatomy_v1.1_v1.2.obo
+Exception: IDC11-BODYSYSTEM.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): HLTHINDCTRS.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): uo.obo
+Exception: PEO.owl
+Passed test 1
+General TBox: vsao_v2012-11-06.obo
+Passed test 1
+General TBox: EP.owl
+Passed test 1
+General TBox: cdao_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): CellCultureOntology_v1.1.owl
+Passed test 1
+General TBox: CPRO_vLast_modification:_July_31th,_2011_Chimezie_Ogbuji.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 5): DIKB_evidence_ontology_v1.5_v2007_+_base_IRI_PURL.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): peco.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 10): MeGO2_1_OBO1.2_v2_1.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): IDQA.owl
+Passed test 1
+General TBox: statistics.owl
+Exception: TEO_v1.0.8.owl
+Exception: PatientSafetyIncident.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): NMR_v13.10.2006.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 10): spider_comparative_biology_v0.9.8.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 2): experimental_condition_v2.2.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 6): rex_vunknown.obo
+Passed test 1
+General TBox: RCTontology2.0_v2.0.owl
+Passed test 1
+General TBox: tmo_v1.0.2.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): eco_vreleases_2013-04-04.obo
+Exception: sopharm_v2.1.2.owl
+Passed test 1
+General TBox: PhylOnt_ver8_vver8.owl
+Passed test 1
+General TBox: qudt_v$Id:_OSG_qudt-(v1.1).ttl_4989_2011-06-01_21:56:40Z_RalphHodgson_$.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 4): ddi_v$Revision$.owl
+Passed test 1
+General TBox: biopax-level3_vLevel3_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): ADW_ontology_v10_11_04.owl
+(EAERO_0000125.AERO_0000367 n EAERO_0000125.AERO_0000369) = EAERO_0000125.AERO_0000247
+General TBox: aero_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): chem2bio2rdf_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): cno_alpha_vversion_0.5.owl
+Passed test 1
+General TBox: JERM_alpha1.6_v1.6Alpha.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): measurement_method_v2.2.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 5): fix_vunknown.obo
+Passed test 1
+General TBox: rnao_vr113.owl
+Passed test 1
+General TBox: ogi-merged_v2.0.owl
+Passed test 1
+General TBox: cheminf_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): psds.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 2): HPIO_v1.0.owl
+Passed test 1
+General TBox: phare_v110114_v110114.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 6): OntoDT_v1.0.owl
+Exception: CogPO12142010_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): sso.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 12): human-dev-anat-abstract_vunknown.obo
+Passed test 1
+General TBox: BCGO_v1.5.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): CSSO_ver0.2_vVersion_0.2.owl
+Passed test 1
+General TBox: ProPreO_v1.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 4): vivo-core-public-1.5_v1.5.owl
+Passed test 1
+General TBox: OntoKBCF1301new_v1301.owl
+Passed test 1
+General TBox: Skin Physiology Ontology 2.0_v2.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): TM_SignsAndSymptoms_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): flybase_controlled_vocabulary_v1.23.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 2): mpath_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 0): dwcterms_owl_v2013-04-02_v2013-04-02.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 6): tick_anatomy_v1.21.obo
+Exception: RoleO_v1.0.6.owl
+(OCRE832477 n EOCRE890531.OCRE001000) <= (EOCRE901007.OCRE400030 u EOCRE901007.OCRE400016 u EOCRE901007.OCRE400075 u EOCRE901007.OCRE400073 u EOCRE901007.OCRE400068)
+General TBox: OCRe.owl
+Passed test 1
+General TBox: QIBO_OWL1_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): CBO_1_0_v1.0.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 11): vHOG_vunknown.obo
+Passed test 1
+General TBox: cao_v1.4.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): nbo.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): iao_merged_v2012-09-20.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): PDO_ver0.1_vVersion_0.1.owl
+Passed test 1
+General TBox: ODGI_v1.0_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): chdwiki_ontology_v1.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): phenXOnto_v0.9.owl
+Passed test 1
+General TBox: bwso.owl
+Exception: EMO.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 13): adult_mouse_anatomy_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Countries.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): OPB-960_v0.960.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): ProvenanceOntology_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): BRO_v3.2.1_v3.2.1.owl
+Passed test 1
+General TBox: tok_v0.2.1_v0.2.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 7): trak_vunknown.obo
+Passed test 1
+General TBox: AAO_v2_edit_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): INO_vVision_Release;_1.0.37.owl
+Passed test 1
+General TBox: SitBAC1_3_v1.3.owl
+Passed test 1
+General TBox: OMIT_v1.1.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 8): TrOn_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 2): ppio.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): SBO_OBO_v19:04:2011_20:42.obo
+Passed test 1
+General TBox: OntoDM-KDD_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): FamilyHealthHistory_v1.0.owl
+Passed test 1
+General TBox: BPO 11_12_10_v0.4.owl
+Passed test 1
+General TBox: GRO_v0.5.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): pto.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): soy_vunknown.obo
+Passed test 1
+General TBox: ido_v2010-12-02.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): MDCRG.owl
+Passed test 1
+General TBox: biotop_vLast_modificationApr_24,_2012_by_Stefan_Schulz.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 5): envo-basic_vreleases_2013-06-14.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 4): mirnao_v1.5.owl
+EKISAO_0000245.KISAO_0000322 = EKISAO_0000246.KISAO_0000000
+General TBox: KISAO_v2.3.4.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 46): MFO.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): OntoPneumo_20110511_v0.1.owl
+Passed test 1
+General TBox: opl_v2012-09-07.owl
+Exception: MS.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 3): PATO.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 0): CPTAC_alpha2_valpha_1.1.owl
+Passed test 1
+General TBox: ogsf-merged_v0.7.owl
+Passed test 1
+General TBox: MO.owl
+Passed test 1
+General TBox: OntoDM_v1.0R.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Top-Menelas_v1.0.owl
+Passed test 1
+General TBox: brucellosis_vArbor_version;_1.1.52.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 17): xenopus_anatomy_v2012-12-21.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 3): genomic-cds_v0.8.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): pathway_v5.4.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): carelex_v1.02.owl
+Passed test 1
+General TBox: neomark_ontology_v4.1_march_2011_v4.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): ABA_v1.0.owl
+Passed test 1
+General TBox: IMGT-ONTOLOGY-v1-0-1_v1.0.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): rat_strain_v4.13.obo
+Passed test 1
+General TBox: neomark_ontology_v3.1_v3.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 10): so_vunknown.obo
+Passed test 1
+General TBox: ECGOntologyv1_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): clinical_measurement_v2.4.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): worm_phenotype_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): IMMDS.obo
+Passed test 1
+General TBox: bao_v1.6.2.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): miro_release_v2.0.00.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): pathLex_v1.2.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 16): IDOMAL_1.2.9_v1.2.9.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): FB-SP.obo
+Passed test 1
+General TBox: ACGT-MO.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): NIF-Dysfunction_v1.5_(December,_2012).owl
+Passed test 1
+Acyclic TBox (ExpDepth = 7): pao.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 7): gro-cpga.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): symp_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): atol_v5__21012013_vv5_210113.obo
+Passed test 1
+General TBox: tao_v2012-08-10.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 23): human-dev-anat-abstract2_vunknown.obo
+Passed test 1
+General TBox: SAO_v1.2.5.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 10): mosquito_anatomy_vunknown.obo
+EBFO_0000050.PORO_0000019 <= EBFO_0000050.PORO_0000019
+General TBox: poro_vunknown.owl
+Passed test 1
+General TBox: Breast cell line ontology_v2.0_Bioportal_30July2010_v2.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 3): PSI-MOD_vSee_Remote_Site.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 3): OPE_v0.0.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): amphibian_taxonomy_vSee_Remote_Site.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 16): po.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 12): EHDA.obo
+Exception: InformedConsentPermissionOntology_alpha_2_vAlpha,_version_2._01_16_2013.owl
+Passed test 1
+General TBox: SDO-merged_vLast_modification:_Feb._11,_2013_Sivaram_Arabandi.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): NIF-Cell_vv.1.7_-_May_2,_2012.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 0): pma_v0.9.1.owl
+Passed test 1
+General TBox: cogat_v0.3.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): LipidOntology_vunknown.owl
+Passed test 1
+General TBox: CellLine_OWL_BioPortal_v1.0.owl
+ETEDDY_0000176.TEDDY_0000110 <= Ehas_part.ETEDDY_0000174.TEDDY_0000035
+General TBox: teddy-inferred_vrel-2011-08-30_(inferred).owl
+Passed test 1
+Acyclic TBox (ExpDepth = 17): zebrafish_anatomy_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 21): WBbt_v2013-04-17.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): IFAR.owl
+Exception: oae_vVision_Release;_1.1.110.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): RPO_081112_owl_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): iceci_vOriginal_Source_1.2_OWL_version_1.02_vOriginal_Source:_1.2;_OWL_version_1.02.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): DermLex_Ver_1_0_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 13): EMAP_vunknown.obo
+Exception: ovae_vVision_Release:_1.0.28.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 15): BrendaTissueOBO_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): PedTerm_Jan20-13_vVersion_2.0.owl
+Passed test 1
+General TBox: EDAM_v1.2.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 11): NIGO_vv1.obo
+Passed test 1
+General TBox: bonedysplasia_v1.5.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): icf_2012.05.08_merged_for_bp_v1.0.2_v1.0.2.owl
+Passed test 1
+General TBox: npo-2011-12-08_inferred_v2011-12-08_(yyyy-mm-dd).owl
+Passed test 1
+Acyclic TBox (ExpDepth = 9): hao_v2012-11-28.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): human-phenotype-ontology_vunknown.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 31): cl_vreleases_2013-06-03.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): mammalian_phenotype_vunknown.obo
+Passed test 1
+General TBox: fb-bt.obo
+Exception: VO_vVision_Release;_1.0.711.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): DOID.obo
+Passed test 1
+General TBox: ero_v2013-05-06.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 8): fypo_v2013-06-19.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): BIRNLex_v1.3.1.owl
+Passed test 1
+General TBox: NEMO_vv2.99.owl
+Passed test 1
+General TBox: GlycO_v4.6.0.0.owl
+Passed test 1
+General TBox: swo_inferred_v1.0.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): BRIDG_v3.2.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 2): CTCAE_4.03_2010-06-14_v4.03.owl
+Passed test 1
+General TBox: obi.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): SYN_v.3.owl
+Passed test 1
+General TBox: uberon_vreleases_2013-05-26.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): teleost_taxonomy_vunknown.obo
+Passed test 1
+General TBox: HL7-CUIS_v2011ab.owl
+Passed test 1
+General TBox: pro_reasoned_v34.0..obo
+Passed test 1
+General TBox: full-galen_v1.1.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 12): gene_ontology_ext_v2.0.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 2): NATPRO.owl
+Exception: clo_v2.1.46.owl
+Aderives_from.NCBITaxon_10090 <= ¬EFO_0004000
+General TBox: EFO_inferred_v2.37.owl
+Passed test 1
+General TBox: OntoOrphanet-BioportalVersion-20121002.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 12): gene_ontology_edit_v2013-06-19.obo
+Passed test 1
+General TBox: chebi_v104.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 4): SemPhysKB_Human_0.0.1_v0.0.1.owl
+Passed test 1
+General TBox: rexo_v1.01.obo
+Exception: hino_vVision_Release:_1.0.38.owl
+Passed test 1
+General TBox: gexo_v1.01.obo
+Passed test 1
+General TBox: cco_v2.01.obo
+Passed test 1
+Acyclic TBox (ExpDepth = 1): Hugo_July12_2010_vJuly2010.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 1): mesh.owl
+Exception: vto_vunknown.owl
+Passed test 1
+Acyclic TBox (ExpDepth = 30): gaz_v$Revision:_1.512_$.obo
+Passed test 1
+General TBox: NCITNCBO_v13.05d.owl
+Passed test 1
+General TBox: fma_3.1.owl
+Passed test 1
+General TBox: biomodels-21.owl
+Passed test 1
+General TBox: cpo-inferred.owl
+Exception: ncbi_taxonomy.owl

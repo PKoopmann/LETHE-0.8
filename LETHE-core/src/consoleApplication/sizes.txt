@@ -1,0 +1,318 @@
+Outcomes.owl: Exception
+pseudogene_ontology_v0.1.obo: 19 Axioms, 57 symbols
+Medication.owl: 3 Axioms, 11 symbols
+genomecomponents_v0.2.owl: 8 Axioms, 32 symbols
+generic.owl: 0 Axioms, 0 symbols
+Detection.owl: 12 Axioms, 36 symbols
+TM_OtherFactors_v1.0.owl: 0 Axioms, 0 symbols
+agentrole.owl: 3 Axioms, 11 symbols
+nif_v2.9.1_-_January_23,_2012.owl: 0 Axioms, 0 symbols
+PVOnto-v0.1_v0.1.owl: Exception
+NeuMORE-v0.1_v0.1.owl: Exception 
+Furniture.owl: 1 Axioms, 51 symbols
+ContributingFactors-Hazards.owl: Exception
+OrganizationalOutcomes.owl: 14 Axioms, 42 symbols
+MF_valpha_2012-11-03.owl: 21 Axioms, 69 symbols
+PatientOutcomes.owl: 7 Axioms, 69 symbols
+Clothing.owl: 13 Axioms, 99 symbols
+TM_Constitution_v1.0.owl: 0 Axioms, 0 symbols
+AmelioratingActions.owl: 24 Axioms, 72 symbols
+Place.owl: 8 Axioms, 90 symbols
+taxonomic_rank_vunknown.obo: 58 Axioms, 174 symbols
+PTRANS.obo: 24 Axioms, 72 symbols
+GeographicalRegion_v1.1_v1.1.owl: 38 Axioms, 114 symbols
+IncidentCharacteristic.owl: Exception
+tma_minimal032510_v1.0.0.owl: 26 Axioms, 118 symbols
+CANONT.obo: 51 Axioms, 153 symbols
+PatientCharacteristics.owl: 30 Axioms, 90 symbols
+caro_vunknown.obo: 53 Axioms, 167 symbols
+MitigatingFactors.owl: 35 Axioms, 105 symbols
+HospitalEquipment.owl: 72 Axioms, 260 symbols
+OGMD.obo: 132 Axioms, 396 symbols
+BuildingStructure.owl: 17 Axioms, 139 symbols
+eligibility-feature-hierarchy_vv._1.0.owl: 38 Axioms, 128 symbols
+DetectionMechanisms.owl: 212 Axioms, 836 symbols
+Activity.owl: 12 Axioms, 218 symbols
+oborel.obo: 0 Axioms, 0 symbols
+TM_Meridians_v1.0.owl: 0 Axioms, 0 symbols
+sweetAll_v2.3.owl: 0 Axioms, 0 symbols
+IxnO_v1.obo: 39 Axioms, 117 symbols
+Person.owl: Exception
+XEO_v1_6_v1.6_v1.6.obo: 237 Axioms, 903 symbols
+sbol-visual_vunknown.owl: 21 Axioms, 63 symbols
+WB-LS.obo: 142 Axioms, 534 symbols
+fungal_anatomy_vunknown.obo: 112 Axioms, 386 symbols
+bco_vunknown.owl: 120 Axioms, 466 symbols
+ntdo_vRev._368.owl: 85 Axioms, 338 symbols
+ExO_v1.obo: 97 Axioms, 373 symbols
+african_medicine_v1.101.obo: 208 Axioms, 652 symbols
+time-entry.owl: 67 Axioms, 329 symbols
+HOM.obo: 91 Axioms, 289 symbols
+mao_vunknown.obo: 167 Axioms, 653 symbols
+PMR.rdf-xml_v1.5.owl: 163 Axioms, 555 symbols
+study_protocol.owl: Exception
+ontology-metadata.owl: 11 Axioms, 71 symbols
+gfo-bio_v1.1.owl: 131 Axioms, 497 symbols
+InferredAnatomyv3.owl: 12 Axioms, 282 symbols
+rnprio.owl: 76 Axioms, 228 symbols
+cabro_v0.5.owl: 110 Axioms, 422 symbols
+spatial_vunknown.obo: 226 Axioms, 1132 symbols
+Anatomy.owl: 12 Axioms, 282 symbols
+LHN.obo: 347 Axioms, 1117 symbols
+bfo-1.1_v1.1.owl: 139 Axioms, 549 symbols
+ActionsToReduceRisk.owl: Exception
+MEDO.owl: 84 Axioms, 252 symbols
+wheat_trait_v08.11.2010.obo: 175 Axioms, 525 symbols
+Diagnosticontology2.0_v2.0.owl: 354 Axioms, 1350 symbols
+vso_v2012-04-25.owl: 91 Axioms, 419 symbols
+WSIO_vbeta1.obo: 31 Axioms, 103 symbols
+ooevv_odp_0.0.4_v0.0.4.owl: 76 Axioms, 334 symbols
+dictyostelium_anatomy_vunknown.obo: 346 Axioms, 1480 symbols
+MaHCO_v1.0.1.owl: 409 Axioms, 1611 symbols
+oboe-sbc_v0.1.owl: Exception
+ogms_v2011-09-20.owl: 84 Axioms, 252 symbols
+gfo-basic_v1.0.owl: 160 Axioms, 689 symbols
+BioPortalMetadata_v0.9.3.owl: 49 Axioms, 275 symbols
+aeo_vunknown.obo: 368 Axioms, 1306 symbols
+ClinicalTrialOntology_v0.9.owl: Exception
+sep_v1.070708.obo: 193 Axioms, 579 symbols
+fb-dv.obo: 407 Axioms, 1785 symbols
+LDA.owl: 35 Axioms, 105 symbols
+GEOSPECIES.owl: Exception
+MIXSCV.obo: 518 Axioms, 1554 symbols
+omrse_v2012-06-24.owl: 86 Axioms, 294 symbols
+snpontology_full_v1.6_full.owl: Exception
+cereals_development_v1.6.obo: 235 Axioms, 713 symbols
+LSM.obo: 470 Axioms, 1410 symbols
+yeast_phenotype_vunknown.obo: 266 Axioms, 798 symbols
+CancerChemopreventionOntology_v0.3.owl: 165 Axioms, 679 symbols
+spto.obo: 422 Axioms, 1322 symbols
+meo_v03_vVersion_0.3.owl: 176 Axioms, 528 symbols
+EpilepsyOntology_vV1.owl: 137 Axioms, 411 symbols
+vario_v2013-06-14.obo: 385 Axioms, 1163 symbols
+RepO_v1.1_v1.1.owl: 91 Axioms, 273 symbols
+shr_vunknown.owl: 413 Axioms, 1379 symbols
+study_design.owl: 201 Axioms, 832 symbols
+MFOEM_vbeta_2013-03-25.owl: 216 Axioms, 700 symbols
+bimo.obo: 551 Axioms, 1847 symbols
+amino acid - inferred_v1.2_(inferred).owl: 670 Axioms, 2912 symbols
+ascomycete_phenotype_vunknown.obo: 296 Axioms, 888 symbols
+zea_mays_anatomy_v1.1_v1.2.obo: 217 Axioms, 943 symbols
+IDC11-BODYSYSTEM.owl: Exception
+HLTHINDCTRS.owl: 548 Axioms, 1644 symbols
+uo.obo: 380 Axioms, 1236 symbols
+PEO.owl: Exception
+vsao_v2012-11-06.obo: 445 Axioms, 1699 symbols
+EP.owl: 218 Axioms, 672 symbols
+cdao_vunknown.owl: 304 Axioms, 1327 symbols
+CellCultureOntology_v1.1.owl: 279 Axioms, 1001 symbols
+CPRO_vLast_modification:_July_31th,_2011_Chimezie_Ogbuji.owl: Exception
+DIKB_evidence_ontology_v1.5_v2007_+_base_IRI_PURL.owl: Exception
+peco.obo: 499 Axioms, 1497 symbols
+MeGO2_1_OBO1.2_v2_1.obo: 430 Axioms, 1624 symbols
+IDQA.owl: 206 Axioms, 978 symbols
+statistics.owl: 160 Axioms, 742 symbols
+TEO_v1.0.8.owl: Exception
+PatientSafetyIncident.owl: Exception
+NMR_v13.10.2006.owl: 290 Axioms, 870 symbols
+spider_comparative_biology_v0.9.8.obo: 777 Axioms, 3147 symbols
+experimental_condition_v2.2.obo: 338 Axioms, 1026 symbols
+rex_vunknown.obo: 734 Axioms, 2370 symbols
+RCTontology2.0_v2.0.owl: 897 Axioms, 3541 symbols
+tmo_v1.0.2.owl: 286 Axioms, 1008 symbols
+eco_vreleases_2013-04-04.obo: 535 Axioms, 2087 symbols
+sopharm_v2.1.2.owl: Exception
+PhylOnt_ver8_vver8.owl: 221 Axioms, 813 symbols
+qudt_v$Id:_OSG_qudt-(v1.1).ttl_4989_2011-06-01_21:56:40Z_RalphHodgson_$.owl: 213 Axioms, 687 symbols
+ddi_v$Revision$.owl: 158 Axioms, 613 symbols
+biopax-level3_vLevel3_v1.0.owl: 239 Axioms, 1105 symbols
+ADW_ontology_v10_11_04.owl: 375 Axioms, 1169 symbols
+aero_vunknown.owl: 368 Axioms, 1650 symbols
+chem2bio2rdf_vunknown.owl: 467 Axioms, 1793 symbols
+cno_alpha_vversion_0.5.owl: 313 Axioms, 1037 symbols
+JERM_alpha1.6_v1.6Alpha.owl: 509 Axioms, 1969 symbols
+measurement_method_v2.2.obo: 421 Axioms, 1263 symbols
+fix_vunknown.obo: 1684 Axioms, 5212 symbols
+rnao_vr113.owl: 374 Axioms, 1468 symbols
+ogi-merged_v2.0.owl: 343 Axioms, 1407 symbols
+Outcomes.owl: Exception
+pseudogene_ontology_v0.1.obo: 19 Axioms, 57 symbols
+Medication.owl: 3 Axioms, 11 symbols
+genomecomponents_v0.2.owl: 8 Axioms, 32 symbols
+generic.owl: 0 Axioms, 0 symbols
+Detection.owl: 12 Axioms, 36 symbols
+TM_OtherFactors_v1.0.owl: 0 Axioms, 0 symbols
+agentrole.owl: 3 Axioms, 11 symbols
+cheminf_v1.0.owl: 284 Axioms, 1414 symbols
+psds.obo: 278 Axioms, 844 symbols
+HPIO_v1.0.owl: 239 Axioms, 723 symbols
+phare_v110114_v110114.owl: 360 Axioms, 1346 symbols
+OntoDT_v1.0.owl: 470 Axioms, 2206 symbols
+CogPO12142010_v1.0.owl: Exception
+sso.owl: 188 Axioms, 924 symbols
+human-dev-anat-abstract_vunknown.obo: 2335 Axioms, 11675 symbols
+BCGO_v1.5.owl: 396 Axioms, 2087 symbols
+CSSO_ver0.2_vVersion_0.2.owl: 272 Axioms, 816 symbols
+ProPreO_v1.1.owl: 552 Axioms, 2164 symbols
+vivo-core-public-1.5_v1.5.owl: 469 Axioms, 2087 symbols
+OntoKBCF1301new_v1301.owl: 686 Axioms, 2894 symbols
+Skin Physiology Ontology 2.0_v2.0.owl: 607 Axioms, 2487 symbols
+TM_SignsAndSymptoms_v1.0.owl: 0 Axioms, 0 symbols
+flybase_controlled_vocabulary_v1.23.obo: 792 Axioms, 2482 symbols
+mpath_vunknown.obo: 947 Axioms, 2847 symbols
+dwcterms_owl_v2013-04-02_v2013-04-02.owl: 0 Axioms, 2 symbols
+tick_anatomy_v1.21.obo: 947 Axioms, 4167 symbols
+RoleO_v1.0.6.owl: Exception
+OCRe.owl: 498 Axioms, 2444 symbols
+QIBO_OWL1_vunknown.owl: 693 Axioms, 3541 symbols
+CBO_1_0_v1.0.0.owl: 1005 Axioms, 3781 symbols
+vHOG_vunknown.obo: 1687 Axioms, 7421 symbols
+cao_v1.4.owl: 415 Axioms, 1667 symbols
+nbo.obo: 1296 Axioms, 4272 symbols
+iao_merged_v2012-09-20.owl: 173 Axioms, 863 symbols
+PDO_ver0.1_vVersion_0.1.owl: 283 Axioms, 857 symbols
+ODGI_v1.0_v1.0.owl: 577 Axioms, 3011 symbols
+chdwiki_ontology_v1.1.owl: 508 Axioms, 1524 symbols
+phenXOnto_v0.9.owl: 339 Axioms, 1017 symbols
+bwso.owl: 486 Axioms, 2176 symbols
+EMO.owl: Exception
+adult_mouse_anatomy_vunknown.obo: 3827 Axioms, 15101 symbols
+Countries.owl: 66 Axioms, 2240 symbols
+OPB-960_v0.960.owl: 1542 Axioms, 5496 symbols
+ProvenanceOntology_vunknown.owl: 0 Axioms, 0 symbols
+BRO_v3.2.1_v3.2.1.owl: 511 Axioms, 1573 symbols
+tok_v0.2.1_v0.2.1.owl: 342 Axioms, 1428 symbols
+trak_vunknown.obo: 1826 Axioms, 6514 symbols
+AAO_v2_edit_vunknown.obo: 2673 Axioms, 10137 symbols
+INO_vVision_Release;_1.0.37.owl: 949 Axioms, 2847 symbols
+SitBAC1_3_v1.3.owl: 622 Axioms, 3100 symbols
+OMIT_v1.1.1.owl: 1150 Axioms, 4924 symbols
+TrOn_vunknown.obo: 2065 Axioms, 7579 symbols
+ppio.obo: 1006 Axioms, 3050 symbols
+SBO_OBO_v19:04:2011_20:42.obo: 587 Axioms, 1761 symbols
+OntoDM-KDD_v1.0.owl: 3423 Axioms, 13867 symbols
+FamilyHealthHistory_v1.0.owl: 371 Axioms, 1499 symbols
+BPO 11_12_10_v0.4.owl: 3704 Axioms, 15270 symbols
+GRO_v0.5.owl: 998 Axioms, 4315 symbols
+pto.obo: 1461 Axioms, 4457 symbols
+soy_vunknown.obo: 1832 Axioms, 5496 symbols
+ido_v2010-12-02.owl: 1601 Axioms, 6839 symbols
+MDCRG.owl: 790 Axioms, 2370 symbols
+biotop_vLast_modificationApr_24,_2012_by_Stefan_Schulz.owl: 1317 Axioms, 6345 symbols
+envo-basic_vreleases_2013-06-14.obo: 1843 Axioms, 5995 symbols
+mirnao_v1.5.owl: 749 Axioms, 2423 symbols
+KISAO_v2.3.4.owl: 1817 Axioms, 7500 symbols
+MFO.obo: 4402 Axioms, 21672 symbols
+OntoPneumo_20110511_v0.1.owl: 1153 Axioms, 3459 symbols
+opl_v2012-09-07.owl: 895 Axioms, 3845 symbols
+MS.obo: Exception
+PATO.obo: 2031 Axioms, 7055 symbols
+CPTAC_alpha2_valpha_1.1.owl: 1026 Axioms, 4788 symbols
+ogsf-merged_v0.7.owl: 784 Axioms, 3431 symbols
+MO.owl: 420 Axioms, 3072 symbols
+OntoDM_v1.0R.owl: 1255 Axioms, 5079 symbols
+Top-Menelas_v1.0.owl: 1088 Axioms, 4386 symbols
+brucellosis_vArbor_version;_1.1.52.owl: 1481 Axioms, 5709 symbols
+xenopus_anatomy_v2012-12-21.obo: 3282 Axioms, 14778 symbols
+genomic-cds_v0.8.0.owl: 156787 Axioms, 647525 symbols
+pathway_v5.4.obo: 1782 Axioms, 5604 symbols
+carelex_v1.02.owl: 321 Axioms, 963 symbols
+neomark_ontology_v4.1_march_2011_v4.1.owl: 349 Axioms, 1071 symbols
+ABA_v1.0.owl: 5965 Axioms, 22953 symbols
+IMGT-ONTOLOGY-v1-0-1_v1.0.1.owl: 3891 Axioms, 16833 symbols
+rat_strain_v4.13.obo: 4851 Axioms, 14717 symbols
+neomark_ontology_v3.1_v3.1.owl: 1879 Axioms, 7759 symbols
+so_vunknown.obo: 2612 Axioms, 9000 symbols
+ECGOntologyv1_v1.0.owl: 1165 Axioms, 3621 symbols
+clinical_measurement_v2.4.obo: 1878 Axioms, 5642 symbols
+worm_phenotype_vunknown.obo: 2415 Axioms, 7245 symbols
+IMMDS.obo: 1676 Axioms, 5028 symbols
+bao_v1.6.2.owl: 1183 Axioms, 3979 symbols
+miro_release_v2.0.00.obo: 4409 Axioms, 13413 symbols
+pathLex_v1.2.owl: 1783 Axioms, 5349 symbols
+IDOMAL_1.2.9_v1.2.9.obo: 3458 Axioms, 12146 symbols
+FB-SP.obo: 6587 Axioms, 19761 symbols
+ACGT-MO.owl: 6998 Axioms, 27300 symbols
+NIF-Dysfunction_v1.5_(December,_2012).owl: 353 Axioms, 1059 symbols
+pao.obo: 2125 Axioms, 8081 symbols
+gro-cpga.obo: 2125 Axioms, 8081 symbols
+symp_vunknown.owl: 840 Axioms, 2520 symbols
+atol_v5__21012013_vv5_210113.obo: 2009 Axioms, 6027 symbols
+tao_v2012-08-10.obo: 5173 Axioms, 20893 symbols
+human-dev-anat-abstract2_vunknown.obo: 13508 Axioms, 61096 symbols
+SAO_v1.2.5.owl: 4204 Axioms, 16446 symbols
+mosquito_anatomy_vunknown.obo: 2732 Axioms, 12100 symbols
+poro_vunknown.owl: 789 Axioms, 2816 symbols
+Breast cell line ontology_v2.0_Bioportal_30July2010_v2.0.owl: 5096 Axioms, 22008 symbols
+PSI-MOD_vSee_Remote_Site.obo: 1982 Axioms, 5996 symbols
+OPE_v0.0.1.owl: 733 Axioms, 2315 symbols
+amphibian_taxonomy_vSee_Remote_Site.obo: 12163 Axioms, 48547 symbols
+po.obo: 2648 Axioms, 10222 symbols
+EHDA.obo: 8339 Axioms, 41649 symbols
+InformedConsentPermissionOntology_alpha_2_vAlpha,_version_2._01_16_2013.owl: Exception
+SDO-merged_vLast_modification:_Feb._11,_2013_Sivaram_Arabandi.owl: 2715 Axioms, 10912 symbols
+NIF-Cell_vv.1.7_-_May_2,_2012.owl: 424 Axioms, 1324 symbols
+pma_v0.9.1.owl: 0 Axioms, 0 symbols
+cogat_v0.3.owl: 4100 Axioms, 17564 symbols
+LipidOntology_vunknown.owl: 3632 Axioms, 16491 symbols
+CellLine_OWL_BioPortal_v1.0.owl: 6359 Axioms, 27473 symbols
+teddy-inferred_vrel-2011-08-30_(inferred).owl: 24209 Axioms, 96894 symbols
+zebrafish_anatomy_vunknown.obo: 10712 Axioms, 47840 symbols
+WBbt_v2013-04-17.obo: 12345 Axioms, 51057 symbols
+IFAR.owl: 2792 Axioms, 8376 symbols
+oae_vVision_Release;_1.1.110.owl: Exception
+RPO_081112_owl_v1.0.owl: 1872 Axioms, 6272 symbols
+iceci_vOriginal_Source_1.2_OWL_version_1.02_vOriginal_Source:_1.2;_OWL_version_1.02.owl: 2231 Axioms, 11155 symbols
+DermLex_Ver_1_0_v1.0.owl: 6106 Axioms, 30528 symbols
+EMAP_vunknown.obo: 13730 Axioms, 68650 symbols
+ovae_vVision_Release:_1.0.28.owl: Exception
+BrendaTissueOBO_vunknown.obo: 6480 Axioms, 24470 symbols
+PedTerm_Jan20-13_vVersion_2.0.owl: 1760 Axioms, 5280 symbols
+EDAM_v1.2.owl: 4316 Axioms, 14480 symbols
+NIGO_vv1.obo: 8835 Axioms, 29715 symbols
+bonedysplasia_v1.5.owl: 3971 Axioms, 33817 symbols
+icf_2012.05.08_merged_for_bp_v1.0.2_v1.0.2.owl: 2157 Axioms, 13813 symbols
+npo-2011-12-08_inferred_v2011-12-08_(yyyy-mm-dd).owl: 28440 Axioms, 114782 symbols
+hao_v2012-11-28.owl: 3941 Axioms, 15731 symbols
+human-phenotype-ontology_vunknown.obo: 13391 Axioms, 40173 symbols
+cl_vreleases_2013-06-03.obo: 13156 Axioms, 60172 symbols
+mammalian_phenotype_vunknown.obo: 11140 Axioms, 33420 symbols
+fb-bt.obo: 20396 Axioms, 80956 symbols
+VO_vVision_Release;_1.0.711.owl: Exception
+DOID.obo: 6766 Axioms, 20298 symbols
+ero_v2013-05-06.owl: 4676 Axioms, 15774 symbols
+fypo_v2013-06-19.obo: 14877 Axioms, 75817 symbols
+BIRNLex_v1.3.1.owl: 3572 Axioms, 10716 symbols
+NEMO_vv2.99.owl: 2675 Axioms, 9954 symbols
+GlycO_v4.6.0.0.owl: 386 Axioms, 7384 symbols
+swo_inferred_v1.0.owl: 8012 Axioms, 31940 symbols
+BRIDG_v3.2.owl: 14812 Axioms, 61614 symbols
+CTCAE_4.03_2010-06-14_v4.03.owl: 6924 Axioms, 26874 symbols
+obi.owl: 50618 Axioms, 206478 symbols
+SYN_v.3.owl: 15349 Axioms, 46047 symbols
+uberon_vreleases_2013-05-26.obo: 29065 Axioms, 125073 symbols
+teleost_taxonomy_vunknown.obo: 38639 Axioms, 115917 symbols
+HL7-CUIS_v2011ab.owl: 8072 Axioms, 24216 symbols
+pro_reasoned_v34.0..obo: 47618 Axioms, 177714 symbols
+full-galen_v1.1.owl: 35531 Axioms, 200611 symbols
+gene_ontology_ext_v2.0.obo: 68776 Axioms, 257154 symbols
+NATPRO.owl: 124761 Axioms, 530751 symbols
+clo_v2.1.46.owl: Exception
+EFO_inferred_v2.37.owl: 23095 Axioms, 82377 symbols
+OntoOrphanet-BioportalVersion-20121002.owl: 92761 Axioms, 412011 symbols
+gene_ontology_edit_v2013-06-19.obo: 74665 Axioms, 249569 symbols
+chebi_v104.obo: 97756 Axioms, 369444 symbols
+SemPhysKB_Human_0.0.1_v0.0.1.owl: 5135 Axioms, 91663 symbols
+rexo_v1.01.obo: 463673 Axioms, 2156463 symbols
+hino_vVision_Release:_1.0.38.owl: Exception
+gexo_v1.01.obo: 549006 Axioms, 2558738 symbols
+cco_v2.01.obo: 624582 Axioms, 2903038 symbols
+Hugo_July12_2010_vJuly2010.owl: 32917 Axioms, 98751 symbols
+mesh.owl: 403210 Axioms, 1209630 symbols
+vto_vunknown.owl: Exception
+gaz_v$Revision:_1.512_$.obo: 652355 Axioms, 3239311 symbols
+NCITNCBO_v13.05d.owl: 138260 Axioms, 706186 symbols
+fma_3.1.owl: 86802 Axioms, 737678 symbols
+biomodels-21.owl: 439293 Axioms, 1838007 symbols
+cpo-inferred.owl: 379724 Axioms, 2055372 symbols
+ncbi_taxonomy.owl: Exception

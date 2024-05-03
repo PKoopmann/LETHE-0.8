@@ -1,0 +1,1625 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="owlapi:ontology362239267947028"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="owlapi:ontology362239267947028">
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/105917007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/116566001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/116567005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/116569008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/116596006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/116601002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/16047007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/255632006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/255635008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/255637000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/26800000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/301815005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/304275008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/317396001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/317411009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/317693000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/317694006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/317695007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/321087001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/321088006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/323069006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/323073009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/323074003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/334017001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/334018006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/349821008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/349859000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/349861009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/349863007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/349864001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/350345004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/350459005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/350462008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/372585002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/372614000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/372616003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/372644002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/372664007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/373272007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/373282008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/373476007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/373504006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/373873005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/375856006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/375919001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/375924003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/385186005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/385187001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/385218009"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/385219001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/385287007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/385289005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/387264003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/387501005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/387804008"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/389105002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/395726003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/406463001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/413639003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/419597003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/419933005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/420699003"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/440132002"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/440133007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/46063005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/48546005"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/52388000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/63094006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/77899000"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/79440004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/79907004"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://snomed.info/id/84213009"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/116596006"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/79440004"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/419933005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/317694006"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/373873005"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/395726003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385289005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/349821008"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/373873005"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387501005"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385289005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/349863007"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/48546005"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387264003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385287007"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/349864001"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/48546005"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387264003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385289005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/350459005"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/52388000"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/116601002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385287007"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/350462008"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/52388000"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/116601002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385289005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/389105002"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/26800000"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/373476007"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385287007"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/440132002"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/373873005"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385287007"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://snomed.info/id/440133007"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/373873005"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385289005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/105917007"/>
+        <Class IRI="http://snomed.info/id/46063005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/116567005"/>
+        <Class IRI="http://snomed.info/id/116566001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/116569008"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/116567005"/>
+            <Class IRI="http://snomed.info/id/419933005"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/116601002"/>
+        <Class IRI="http://snomed.info/id/116569008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/16047007"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/255635008"/>
+            <Class IRI="http://snomed.info/id/321088006"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/255635008"/>
+        <Class IRI="http://snomed.info/id/105917007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/255637000"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/301815005"/>
+            <Class IRI="http://snomed.info/id/406463001"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/26800000"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/349861009"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/373476007"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/304275008"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/116566001"/>
+            <Class IRI="http://snomed.info/id/406463001"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/317396001"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/349821008"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385186005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/317411009"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/349821008"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385186005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/317693000"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/350462008"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/116601002"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385186005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/317695007"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/317694006"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/395726003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385186005"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/321087001"/>
+        <Class IRI="http://snomed.info/id/373873005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/321088006"/>
+        <Class IRI="http://snomed.info/id/105917007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/323069006"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/349864001"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387264003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385187001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/323073009"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/349864001"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387264003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385187001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/323074003"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/349864001"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387264003"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385187001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/334017001"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/389105002"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/373476007"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385219001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/334018006"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/389105002"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/373476007"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385219001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/349859000"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/105917007"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/372614000"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/349861009"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/16047007"/>
+            <Class IRI="http://snomed.info/id/349859000"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/350345004"/>
+        <Class IRI="http://snomed.info/id/373873005"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/372616003"/>
+        <Class IRI="http://snomed.info/id/372664007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/372664007"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/255632006"/>
+            <Class IRI="http://snomed.info/id/372585002"/>
+            <Class IRI="http://snomed.info/id/372614000"/>
+            <Class IRI="http://snomed.info/id/373282008"/>
+            <Class IRI="http://snomed.info/id/406463001"/>
+            <Class IRI="http://snomed.info/id/413639003"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/373476007"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/372616003"/>
+            <Class IRI="http://snomed.info/id/373504006"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/375856006"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/389105002"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/84213009"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385219001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/375919001"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/389105002"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/84213009"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385219001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/375924003"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/389105002"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/84213009"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/411116001"/>
+                <Class IRI="http://snomed.info/id/385219001"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/385186005"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/385289005"/>
+            <Class IRI="http://snomed.info/id/420699003"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/385187001"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/385289005"/>
+            <Class IRI="http://snomed.info/id/77899000"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/385218009"/>
+        <Class IRI="http://snomed.info/id/385287007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/385219001"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/385218009"/>
+            <Class IRI="http://snomed.info/id/77899000"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/387264003"/>
+        <Class IRI="http://snomed.info/id/372616003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/387501005"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/255637000"/>
+            <Class IRI="http://snomed.info/id/372644002"/>
+            <Class IRI="http://snomed.info/id/79907004"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/387804008"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/16047007"/>
+            <Class IRI="http://snomed.info/id/63094006"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/395726003"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/116569008"/>
+            <Class IRI="http://snomed.info/id/419597003"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/419597003"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/373272007"/>
+            <Class IRI="http://snomed.info/id/419933005"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/419933005"/>
+        <Class IRI="http://snomed.info/id/304275008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/46063005"/>
+        <Class IRI="http://snomed.info/id/321087001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/48546005"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/387804008"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/387264003"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/52388000"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://snomed.info/id/116596006"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://snomed.info/id/127489000"/>
+                <Class IRI="http://snomed.info/id/116601002"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/63094006"/>
+        <Class IRI="http://snomed.info/id/321087001"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/77899000"/>
+        <Class IRI="http://snomed.info/id/420699003"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/79440004"/>
+        <Class IRI="http://snomed.info/id/350345004"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://snomed.info/id/84213009"/>
+        <Class IRI="http://snomed.info/id/373476007"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/105917007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic, sedative AND/OR hypnotic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/105917007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic, sedative AND/OR hypnotic (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/116566001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Steroid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/116566001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Steroid (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/116567005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Synthetic steroid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/116567005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Synthetic steroid (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/116569008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Synthetic glucocorticoid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/116569008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Synthetic glucocorticoid (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/116596006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Glucocorticoid preparation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/116596006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Glucocorticoid preparation (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/116601002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/116601002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/127489000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Has active ingredient</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/127489000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Has active ingredient (attribute)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/16047007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/16047007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/255632006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anticonvulsant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/255632006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anticonvulsant (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/255635008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/255635008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/255635008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/255637000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Salicylate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/255637000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Salicylate (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/26800000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/26800000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/301815005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzoic acid or derivative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/301815005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzoic acid and derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/301815005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzoic acid or benzoic acid derivative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/301815005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzoic acid or benzoic acid derivative (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/304275008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Corticosteroids and derivatives</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/304275008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Corticosteroids and derivatives (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/317396001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalamine 1g/100mL retention enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/317396001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalazine 1g/100mL retention enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/317396001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalazine 1g/100mL retention enema (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/317411009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalamine 2g/59mL enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/317411009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalazine 2g/59mL enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/317411009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalazine 2g/59mL enema (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/317693000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone 20mg/100mL standard tube retention enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/317693000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone 20mg/100mL standard tube retention enema (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/317694006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form budesonide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/317694006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form budesonide (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/317695007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Budesonide 2mg/100mL enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/317695007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Budesonide 2mg/100mL enema (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/321087001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CNS drug</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/321087001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Central nervous system agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/321087001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">CNS drug (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/321088006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hypnotics</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/321088006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hypnotics (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/323069006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam 2.5mg/1.25mL rectal solution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/323069006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam 2.5mg/1.25mL rectal solution (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/323073009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam 5mg/2.5mL rectal solution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/323073009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam 5mg/2.5mL rectal solution (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/323074003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam 10mg/2.5mL rectal solution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/323074003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam 10mg/2.5mL rectal solution (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/334017001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam 2mg/mL injection solution 5mL ampule</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/334017001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam 10mg/5mL injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/334017001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam 2mg/mL injection solution 5mL ampule (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/334018006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam 5mg/mL injection solution 2mL ampule</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/334018006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam 10mg/2mL injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/334018006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam 5mg/mL injection solution 2mL ampule (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/349821008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form mesalamine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/349821008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form mesalazine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/349821008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form mesalazine (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/349859000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sedative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/349859000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sedative (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/349861009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine sedative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/349861009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine sedative (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/349863007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form diazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/349863007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form diazepam (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/349864001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form diazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/349864001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form diazepam (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/350345004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hormones, synthetic substitutes and antagonists</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/350345004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hormones, synthetic substitutes and antagonists (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/350459005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form prednisolone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/350459005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form prednisolone (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/350462008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form prednisolone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/350462008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal form prednisolone (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/372585002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hypnotic agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/372585002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Hypnotic agent (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/372614000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sedative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/372614000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sedative (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/372616003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine sedative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/372616003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine sedative (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/372644002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inflammatory bowel disease agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/372644002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Inflammatory bowel disease agent (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/372664007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/372664007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/373272007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Respiratory system agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/373272007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Respiratory system agent (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/373282008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/373282008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anxiolytic agent (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/373476007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/373476007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/373504006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">General intravenous anesthetic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/373504006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Intravenous anesthetic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/373504006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Intravenous induction agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/373504006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral anesthetic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/373504006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">General intravenous anesthetic (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/373873005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pharmaceutical / biologic product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/373873005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Pharmaceutical / biologic product (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/375856006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 5mg/mL injection solution 10mL ampule</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/375856006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 50mg/10mL injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/375856006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 5mg/mL injection solution 10mL ampule (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/375919001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 1mg/mL injection solution 2mL ampule</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/375919001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 2mg/2mL injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/375919001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 1mg/mL injection solution 2mL ampule (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/375924003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 1mg/mL injection solution 5mL ampule</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/375924003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 5mg/5mL injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/375924003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride 1mg/mL injection solution 5mL ampule (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/385186005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Enema</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/385186005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Enema (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/385187001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal solution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/385187001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal solution (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/385218009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/385218009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Injection (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/385219001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Injection solution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/385219001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Solution for injection</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/385219001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Injection solution (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/385287007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral dosage form</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/385287007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form dosage form</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/385287007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral dosage form (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/385289005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal dosage form</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/385289005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal dosage form (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/387264003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/387264003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalazine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-ASA</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">5-Aminosalicylic acid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Fisalamine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalamine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">m-Aminosalicylic acid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/387501005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mesalamine (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/387804008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine antiepileptic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/387804008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzodiazepine antiepileptic (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/389105002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form midazolam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/389105002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral form midazolam (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/395726003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Budesonide</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/395726003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Budesonide (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/406463001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Drug allergen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/406463001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Drug allergen (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/411116001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Has dose form</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/411116001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Has dose form (attribute)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/413639003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzazepine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/413639003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Benzazepine (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/419597003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Respiratory corticosteroid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/419597003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Respiratory corticosteroid (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/419933005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Glucocorticoid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/419933005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Glucocorticoid (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/420699003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Liquid dose form</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/420699003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Liquid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/420699003</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Liquid dose form (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/440132002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral dosage form product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/440132002</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Parenteral dosage form product (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/440133007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal dosage form product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/440133007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Rectal dosage form product (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/46063005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Psychotherapeutic agent</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/46063005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Psychotherapeutic agent (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/48546005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/48546005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/48546005</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Diazepam (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone preparation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Deltahydrocortisone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Deltahydrocortisone preparation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Metacortandralone preparation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/52388000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prednisolone preparation (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/63094006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anticonvulsant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/63094006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Anticonvulsant (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/77899000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Drug solution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/77899000</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Drug solution (qualifier value)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/79440004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Corticoid preparation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.synonym"/>
+        <IRI>http://snomed.info/id/79440004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Corticosteroids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/79440004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Corticoid preparation (product)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/79907004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Aminobenzoic acid derivative</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/79907004</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Aminobenzoic acid derivative (substance)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://snomed.info/field/Description.term.en-us.preferred"/>
+        <IRI>http://snomed.info/id/84213009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://snomed.info/id/84213009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Midazolam hydrochloride (substance)</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 3.5.4) http://owlapi.sourceforge.net -->
+
